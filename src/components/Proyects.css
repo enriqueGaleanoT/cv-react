@@ -1,0 +1,25 @@
+.Proyects{
+
+    height: 50vh;
+    width: 100vw;
+}
+.h2-proyects{
+    padding-top: 155px;
+    max-width: 50rem;
+    margin: 0 auto;
+    overflow: hidden;
+    color: black;  
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.Proyects-underConstruction{
+    height: 50vh;
+    width: 100vw;
+    max-width: 50rem;
+    margin: 0 auto;
+    overflow: hidden;
+    color: black;
+}
+
