@@ -1,0 +1,16 @@
+#root{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  background: transparent;
+}
+
+body{
+  background-color: rgb(255, 255, 255);
+  color: black;
+  overflow: hidden;
+  overflow-y: scroll;
+  display: block;
+}
+

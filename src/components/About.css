@@ -1,0 +1,26 @@
+.About{
+    background-color: whitesmoke;
+    height: 50vh;
+    width: 100vw;
+}
+.h2-about{
+    padding-top: 155px;
+    max-width: 50rem;
+    margin: 0 auto;
+    overflow: hidden;
+    color: black;  
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.about-me-text{
+    height: 50vh;
+    width: 100vw;
+    max-width: 50rem;
+    margin: 0 auto;
+    overflow: hidden;
+    color: black;
+}
+
+
